@@ -1,6 +1,7 @@
 
 package Dominio;
 
-public class Usuario {
+
+public class Carro {
     
 }
